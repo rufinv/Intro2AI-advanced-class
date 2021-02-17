@@ -9,29 +9,29 @@
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Andreas Herzig | Symbolic AI: History and Foundations |  March 15 | 5-7pm |
-| Neural Networks  | [Lecture 2](./Lecture2/index.md) | A. Zerroug & A. Ben Tanfous | Neural Networks: History and Foundations |  March 22 | 5-7pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  March 29 | 5-7pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  April 5 | 5-7pm |
-| Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  April 8 | 5-7pm |
-| Computer Vision  | [Lecture 6](./Lecture6/index.md) | Mohit Vaishnav | Visual Reasoning |  April 12 | 5-7pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Natural Language Processing basics |  April 15 | 5-7pm |
-| NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | NLP2 |  April 19 | 5-7pm |
-| NLP  | [Lecture 9](./Lecture9/index.md) | Romain Bielawski | NLP3 |  April 26 | 5-7pm |
-| Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  May 3 | 5-7pm |
-| DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  May 10 | 5-7pm |
-| DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Ismail Khalfaoui  | Spiking neural networks |  May 17 | 5-6pm |
-| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  May 17 | 6-7pm |
+| Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Andreas Herzig | Symbolic AI: History and Foundations |  tbd. | 5-7pm |
+| Neural Networks  | [Lecture 2](./Lecture2/index.md) | A. Zerroug & A. Ben Tanfous | Neural Networks: History and Foundations |  tbd. | 5-7pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  tbd. | 5-7pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  tbd. | 5-7pm |
+| Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  tbd. | 5-7pm |
+| Computer Vision  | [Lecture 6](./Lecture6/index.md) | Mohit Vaishnav | Visual Reasoning |  tbd. | 5-7pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Natural Language Processing basics |  tbd. | 5-7pm |
+| NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | NLP2 |  tbd. | 5-7pm |
+| NLP  | [Lecture 9](./Lecture9/index.md) | Romain Bielawski | NLP3 |  tbd. | 5-7pm |
+| Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  tbd. | 5-7pm |
+| DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  tbd. | 5-7pm |
+| DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Ismail Khalfaoui  | Spiking neural networks |  tbd. | 5-6pm |
+| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  tbd. | 6-7pm |
 
 ### Audience
-This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
+This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level **audience with no AI or machine learning training, but with some background in Computer Science, Engineering or Maths**. The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
 
 If you need a refresher on the basics of Python programming before starting our class, you can try [[this course]](https://www.python-course.eu), [[this one]](https://thepythonguru.com/) or [[this one]](https://www.programiz.com/python-programming). 
 
 Similarly, if you'd like to brush up math concepts that are relevant to modern AI, you could check [[this blog]](https://www.edureka.co/blog/mathematics-for-machine-learning/) or [[this one]](https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/), or [[this two-hour video]](https://www.youtube.com/watch?v=iyxqcS1u5go) or [[this one]](https://www.youtube.com/watch?v=1VSZtNYMntM). 
 
 ### Registration
-Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
+Priority is given to M2 students from Universite de Toulouse. The classes are open to other interested participants from ANITI or outside, based on availability. 
 
 To pre-register for the class, **it is mandatory to sign up** with the following form:
 #### [Registration form](registration)
