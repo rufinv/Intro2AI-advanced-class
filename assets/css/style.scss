@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-image: url("../../Header-Background-Image.jpg");
+    background-size: cover;
+}
+
+.main-content {
+    max-width: 90rem;
+    }
