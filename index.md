@@ -1,7 +1,7 @@
 # Intro 2 AI  - advanced -  2021 class
 <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div>
 
-<div style="color: red"><span style="font-weight: bold">Very important:</span> due to a strong response in the community, we are splitting the class in 2 sessions. This page is for the <span style="font-weight: bold">advanced</span> session, appropriate for students with prior training in Maths, Engineering and/or Computer Science. If you are here by mistake, go to <a href="https://rufinv.github.io/Intro2AI-class/">[the main/basic session page]</a>. </div>
+<div style="color: red"><span style="font-weight: bold">Very important:</span> due to a strong response in the community, we are splitting the class in 2 sessions. This page is for the <span style="font-weight: bold">advanced</span> session, appropriate for students with prior training in Maths, Engineering and/or Computer Science. If you are here by mistake, go to <a href="https://rufinv.github.io/Intro2AI-class/">[the main/standard session page]</a>. </div>
 
 ### Note: the entire course this year is by visio-conference!!
 
@@ -14,7 +14,7 @@
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  tbd. | 5-7pm |
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  tbd. | 5-7pm |
 | Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  tbd. | 5-7pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  tbd. | 5-7pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  April 14 | 5-7pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  April 19 | 5-7pm |
 | NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  April 22 | 5-7pm |
 | Computer Vision  | [Lecture 9](./Lecture9/index.md) | Mohit Vaishnav | Visual Reasoning |  April 29 | 5-7pm |
