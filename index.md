@@ -18,10 +18,10 @@
 | NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  April 19 | 5-7pm |
 | NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  April 22 | 5-7pm |
 | Computer Vision  | [Lecture 9](./Lecture9/index.md) | Mohit Vaishnav | Visual Reasoning |  April 29 | 5-7pm |
-| Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  tbd. | 5-7pm |
-| DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  tbd. | 5-7pm |
-| DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Ismail Khalfaoui  | Spiking neural networks |  tbd. | 5-6pm |
-| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  tbd. | 6-7pm |
+| Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  May 4 | 5-7pm |
+| DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  May 11 | 5-7pm |
+| DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Ismail Khalfaoui  | Spiking neural networks |  May 18 | 5-6pm |
+| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  May 18 | 6-7pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level **audience with no AI or machine learning training, but with some background in Computer Science, Engineering or Maths**. The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
