@@ -13,5 +13,6 @@ Teacher: Benjamin Devillers (ANITI)
 - Unsupervised learning: learning without labels. Differences with zero-shot learning.
   - Auto-encoders, contrastive learning
   - Generative models: GANs, VAEs
+
 ---
 #### [(Back to Main Page)](../index.md)
