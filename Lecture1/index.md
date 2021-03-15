@@ -1,17 +1,16 @@
-## Lecture 1 - Symbolic AI, Knowledge Representation, and Reasoning: an Overview
+## Lecture 1 - Symbolic AI: History and Foundations
 Teacher: Emiliano Lorini (IRIT)
 
-<div style="color: red"><span style="font-weight: bold">Very important:</span> due to a strong response in the community, we are splitting the class in 2 sessions. This page is for the <span style="font-weight: bold">advanced</span> session, appropriate for students with prior training in Maths, Engineering and/or Computer Science. If you are here by mistake, go to <a href="https://rufinv.github.io/Intro2AI-class/">[the main/basic session page]</a>. </div>
+### Slides
+Download the slides [here](https://rufinv.github.io/Intro2AI-class/Lecture1/CoursSymbolicAI_ANITI.pdf)
 
 ### Contents
 
-* The knowledge representation hypothesis and the history of AI
-* From databases to knowledge bases
-* Reasoning about time and space
-* Dynamics of knowledge bases: actions, updates, revision
-* From knowledge bases to agents: goals and intentions
-* From one agent to many: reasoning about others
-* From many agents to one: group attitudes
+* Introduction: symbolic AI vs subsymbolic AI
+* Chronological view of symbolic AI
+* Formal methods for symbolic AI
+* Logic-based modeling in AI
+* Integration of symbolic and subsymbolic approaches
 
 ### Prerequisites:
 Propositional logic; (little) knowledge of predicate logic
