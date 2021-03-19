@@ -2,19 +2,21 @@
 Teachers: Amor Ben Tanfous & Aimen Zerroug (ANITI)
 
 
-<div style="color: red"><span style="font-weight: bold">Very important:</span> due to a strong response in the community, we are splitting the class in 2 sessions. This page is for the <span style="font-weight: bold">advanced</span> session, appropriate for students with prior training in Maths, Engineering and/or Computer Science. If you are here by mistake, go to <a href="https://rufinv.github.io/Intro2AI-class/">[the main/basic session page]</a>. </div>
-
-
 
 ### Contents
 
-* Perceptrons, multi-layer perceptrons
+* History of neural networks 
 
-* Convolutional networks
+* Artificial neurons - Perceptrons
 
-* Objective and cost functions, optimization, gradient descent, back-propagation
+* Multi-layer perceptrons (MLPs), CNNs and RNNs
 
-* Recurrent networks, back-prop through time, vanishing gradients, GRU/LSTM
+* Objective functions, Gradient descent and Back-propagation
+
+* Loss functions, optimization, regularization and hyperparameters
+
+### Notebook
+Access the collab notebook [here]
 
 ---
 #### [(Back to Main Page)](../index.md)
