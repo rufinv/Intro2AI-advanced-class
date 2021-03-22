@@ -16,7 +16,7 @@ Teachers: Amor Ben Tanfous & Aimen Zerroug (ANITI)
 * Loss functions, optimization, regularization and hyperparameters
 
 ### Notebook
-Access the collab notebook [here]
+Access the collab notebook [here](https://colab.research.google.com/drive/1dAVeCDQLzHUTRx7P6pcQVShc8n7NYz14?usp=sharing)
 
 ---
 #### [(Back to Main Page)](../index.md)
