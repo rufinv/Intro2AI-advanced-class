@@ -23,7 +23,7 @@ Teacher: Mohit VAISHNAV (ANITI)
 
 [Writing a toy model for CALTECH classification and other variant (pretrained network)](https://colab.research.google.com/drive/1pN_VRJLhuEr4qjPRQTTtNNIFYELHN52f?usp=sharing)
 
-[Writing a toy model for MNIST classification](https://colab.research.google.com/drive/1Ka2icb6k0EwQ9-rqfckXnOyGyR6wNqhO?usp=sharing)
+[Writing a toy model for MNIST classification](https://colab.research.google.com/drive/1gqjT2F8llFGZb4IVAXxcKogfXtiFDHUw?usp=sharing)
 
 ---
 #### [(Back to Main Page)](../index.md)
