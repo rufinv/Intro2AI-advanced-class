@@ -14,6 +14,9 @@ Teacher: Benjamin Devillers (ANITI)
   - Auto-encoders, contrastive learning
   - Generative models: GANs, VAEs
 
+### Slides:
+Access the slides [here](https://docs.google.com/presentation/d/18-iesQfxF6qnBITNOlt4oqlth1EgrTRfwBEttpEfzkQ/edit?usp=sharing)
+
 ### Notebook
 Access the collab notebook [here](https://colab.research.google.com/drive/1sY-7zg3-kMhUaWBzisCK4veZrj5XZjt0?usp=sharing) 
 
