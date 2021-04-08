@@ -16,8 +16,9 @@ Teacher: Colin DECOURT (ANITI)
   * U-Net: Convolutional Networks for Biomedical Image Segmentation 
   * Mask R-CNN
 
-[**Slides (soon)**]()  
-[**Lab (available)**](https://colab.research.google.com/drive/1EvOiN1GE11-4hwiZPzxds1ZQD54Gtc8r?usp=sharing)
+[**Slides (available)**](https://drive3-pilote.renater.fr/index.php/s/mDbNZDcrRSj2WBF)  
+[**Lab (available)**](https://colab.research.google.com/drive/1K_wrDFeatZOrFBKTaVnxFFuBzv2JtVrU?usp=sharing)  
+[**Additional resources**](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
 
 ---
 #### [(Back to Main Page)](../index.md)
