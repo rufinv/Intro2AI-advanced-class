@@ -18,7 +18,7 @@ Teacher: Romain Bielawski (ANITI)
 Download the slides [here](https://docs.google.com/presentation/d/1KS1_n3JO_4yZ1xCn8tDjkGPiSr2L1RIRN4SVFcXrhgk/edit?usp=sharing)
 
 ### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/1MWqyE46KXhKfL-hpQBMhAHYSlsKejtal?usp=sharing)
+Access the collab notebook [here](https://colab.research.google.com/drive/1ksyy7p0nDujtJX9wpv04m9kkMdcoJMQW?usp=sharing)
 
 
 ### Prerequisites:
