@@ -11,9 +11,10 @@ View the recorded lecture [here](https://drive.google.com/file/d/1Gs8LSEkDLlXxj_
 * Sequential data and variable size inputs
 * Recurrent neural network principles, hidden states
 * Backprop through time
+* Vanishing gradient
 * RNN, LSTM, GRU
 * Sentence embeddings, text generation, seq2seq, machine translation
-* Application : LSTM for text generation
+* Application : LSTM for text generation & text classification
 
 ## Slides
 
