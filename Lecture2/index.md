@@ -7,7 +7,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1oykaczy7B_qcDT
 
 ### Slides
 
-Download the slides [here](https://github.com/rufinv/Intro2AI-advanced-class/blob/gh-pages/Lecture2/Lecture%202%20Advanced.pdf)
+Download the slides [here](https://raw.githubusercontent.com/rufinv/Intro2AI-advanced-class/gh-pages/Lecture2/Lecture%202%20Advanced.pdf)
 
 ### Contents
 
