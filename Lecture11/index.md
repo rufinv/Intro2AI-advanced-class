@@ -1,14 +1,29 @@
-## Lecture 11 - Title
-Teacher: name (ANITI)
-
+## Lecture 11 - Homologies between brains and CNNs
+Teacher: Rufin VanRullen (ANITI)
 
 <div style="color: red"><span style="font-weight: bold">Very important:</span> due to a strong response in the community, we are splitting the class in 2 sessions. This page is for the <span style="font-weight: bold">advanced</span> session, appropriate for students with prior training in Maths, Engineering and/or Computer Science. If you are here by mistake, go to <a href="https://rufinv.github.io/Intro2AI-class/">[the main/basic session page]</a>. </div>
 
-
-
 ### Contents
 
-(coming soon)
++ What’s in a brain? Crash course in (visual) neuroscience:
+  + Cortical Hierarchy
+  + Receptive fields
+  + Selectivities (features, object, classes)
+  + Concept cells
+
++ What’s in a CNN? Deepdream, visualization (explainability/interpretability) tools, examples…
+
++ Brain/CNN comparisons:
+  + RSA (representational similarity analysis): fMRI, MEG, single-units
+  + Brainscore
+  + Case study: CLIP-multimodal
+
++ Other issues about the biological plausibility of Deep Learning: 
+  + Spikes
+  + Adversarial attacks
+  + Backprop
+  + Attention/transformers
+  + Recurrence…
 
 ---
 #### [(Back to Main Page)](../index.md)
